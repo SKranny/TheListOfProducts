@@ -1,6 +1,9 @@
 # TheListOfProducts
+
+## Description
 Test assignment for Newton investments.
 
+## Technical description
     This is a test assignment for Newton Investments. This assignment uses the following tools:
       - java 11+,
       - spring framework,
